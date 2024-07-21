@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi There , I'm Ashith Prakas 👋<br><br>i completed my Btech in computer science from Muthoot Institute of Technology and Science. Apart from that ,  <br>I am a frontened developer who loves writing dynamic , interactive webcontent and i enjoy learning new things.
+I am a frontened developer who loves writing dynamic , interactive webcontent and i enjoy learning new things.
 
 
 ## 🌐 Socials:
